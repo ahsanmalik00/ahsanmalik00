@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Ahsan Malik
 
-<!--
-**ahsanmalik00/ahsanmalik00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ISTQB® Certified Software QA Engineer with 2+ years of experience in
+Manual & Automation Testing.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working as a QA Engineer
+- 🧪 Specialized in Manual & Automation Testing
+- 🎭 Working with Playwright, Selenium & Appium
+- 🔌 API Testing with Postman
+- 🗄️ SQL & Database Testing
+- ⚙️ CI/CD with GitHub Actions & Jenkins
+- 📚 Currently learning advanced automation
+- 💼 Open to QA Automation opportunities
+
+## 🛠️ Tools & Technologies
+
+### QA Automation
+`Playwright` `Selenium` `Appium` `Cucumber` `Postman` `JMeter`
+
+### Programming
+`JavaScript` `TypeScript` `Java` `Python` `SQL`
+
+### CI/CD & Tools
+`Git` `GitHub Actions` `Jenkins` `Jira` `Azure DevOps`
+
+## 📫 Connect With Me
+
+- LinkedIn: [Ahsan Malik](https://www.linkedin.com/in/ahsan-malik-5b1764390/)
+- GitHub: [@ahsanmalik00](https://github.com/ahsanmalik00)
