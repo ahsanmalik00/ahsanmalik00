@@ -17,9 +17,11 @@
 
 ## 👨‍💻 About Me
 
-ISTQB® Certified SDET with **2+ years of experience** in Manual & Automation Testing across web, mobile, API, and AI-powered applications. Beyond tech, I'm a public speaker, debater, and former President of Bahria University Debating Club, passionate about problem-solving, communication and continuous learning.
+ISTQB® Certified Software QA Automation Engineer with **2+ years of experience** in Manual & Automation Testing across web, mobile, API, and AI-powered applications. Beyond tech, I'm a public speaker, debater, and former President of Bahria University Debating Club, passionate about thinking beyond the obvious, critical thinking and continuously learning.
 
-🎯 *Mapping quality, one test at a time — turning complex challenges into reliable software.*
+<p align="center">
+  <i>🎯 Curious by nature, critical by mindset and always looking for what others might miss. 🎯</i> 
+</p>
 
 ## 🚀 What I Do
 
@@ -82,11 +84,10 @@ I'm always happy to connect with QA professionals, developers, recruiters and te
   <a href="https://wa.me/923333138744">
     <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" />
   </a>
-  <a href="https://github.com/ahsanmalik00">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub" />
+  <a href="mailto:ahsanmalikawan210@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact via Email" />
   </a>
 </p>
-
 <p align="center">
   <i>"Good software doesn't happen by accident. It's tested, challenged and continuously improved."</i> 🚀
 </p>
