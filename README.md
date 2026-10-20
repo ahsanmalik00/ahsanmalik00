@@ -84,9 +84,9 @@ I'm always happy to connect with QA professionals, developers, recruiters and te
   <a href="https://wa.me/923333138744">
     <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" />
   </a>
-  <a href="mailto:ahsanmalikawan210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact via Email" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahsanmalikawan210@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact via Gmail" />
+</a>
 </p>
 <p align="center">
   <i>"Good software doesn't happen by accident. It's tested, challenged and continuously improved."</i>🔍
