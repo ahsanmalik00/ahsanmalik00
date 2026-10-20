@@ -17,10 +17,10 @@
 
 ## 👨‍💻 About Me
 
-ISTQB® Certified Software QA Automation Engineer with **2+ years of experience** in Manual & Automation Testing across web, mobile, API, and AI-powered applications. Beyond tech, I'm a public speaker, debater, and former President of Bahria University Debating Club, passionate about thinking beyond the obvious, critical thinking and continuously learning.
+ISTQB® Certified Software QA Automation Engineer with 2+ years of experience in Manual & Automation Testing across Web, Mobile, API & AI powered applications. Beyond tech, I'm a public speaker, debater and former President of Bahria University Debating Club, passionate about thinking beyond the obvious, critical thinking and continuously learning.
 
 <p align="center">
-  <i>🎯 Curious by nature, critical by mindset and always looking for what others might miss. 🎯</i> 
+  <i>🎯 Curious by nature, critical by mindset and always looking for what others might miss 🎯</i> 
 </p>
 
 ## 🚀 What I Do
@@ -66,10 +66,10 @@ ISTQB® Certified Software QA Automation Engineer with **2+ years of experience*
 
 ## 📊 A Little About My Approach
 
-- 🎯 Focus on quality, reliability, and real-world user experience
-- 🔍 Look beyond happy paths to uncover edge cases and hidden defects
-- ♻️ Build reusable automation that improves regression efficiency
-- 🤝 Collaborate with developers and cross-functional teams to ship with confidence
+- 🎯 Focus on quality, reliability and real-world user experience.
+- 🔍 Look beyond happy paths to uncover edge cases and hidden defects.
+- ♻️ Build reusable automation that improves regression efficiency.
+- 🤝 Collaborate with developers and cross-functional teams to ship with confidence.
 
 ---
 
@@ -89,6 +89,6 @@ I'm always happy to connect with QA professionals, developers, recruiters and te
   </a>
 </p>
 <p align="center">
-  <i>"Good software doesn't happen by accident. It's tested, challenged and continuously improved."</i> 🚀
+  <i>"Good software doesn't happen by accident. It's tested, challenged and continuously improved."</i>🔍
 </p>
  
