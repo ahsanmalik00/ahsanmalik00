@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahsan Malik
 
-### ISTQB® Certified Sofftware Deveolpment Engineer in Test - SDET
+# ISTQB® Certified Software Development Engineer in Test (SDET)
 
-I'm a Software QA Engineer with **2+ years of experience** helping teams build reliable, high-quality software. I work across manual and automation testing for web, mobile, and API-based applications, focusing on finding bugs early, improving test coverage, and making releases more reliable.
+I'm a Software QA Engineer with **2+ years of experience** helping teams build reliable, high-quality software. I work across manual and automation testing for web, mobile and API-based applications testing, focusing on finding bugs early, improving test coverage and making releases more reliable.
 
 I enjoy solving testing challenges, building maintainable automation frameworks, and finding smarter ways to improve software quality.
 
